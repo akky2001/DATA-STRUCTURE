@@ -1,4 +1,4 @@
-
+//IMPLEMENTATION OF STACK USING ARRAY
 
 #include<stdio.h>
 int stack[100],i,j,choice=0,top=-1,n;
